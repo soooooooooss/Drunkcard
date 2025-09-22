@@ -1,4 +1,4 @@
-# drinkycards
+# Drunkcard
 
 A new Flutter project.
 
